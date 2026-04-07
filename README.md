@@ -1,1 +1,1 @@
-I am a Tehnical Writer speciallizing in Saas documentation and Markdown-based workflows. 
+I am a Tehnical Writer specializing in Saas documentation and Markdown-based workflows. 
