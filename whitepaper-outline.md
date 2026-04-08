@@ -48,8 +48,6 @@ This constant "Attention Fragmentation" leads to three primary psychological dra
 
 When software is added without a human-centric stategy, it stops being an "enabler" and starts being a "disruptor". Organizations that ignore this human cost will continue to see declining engagement and rising turnover, regardless of how much they invest in the latest AI feature. 
 
-
-
 ## 5. The Solution: A Governance Framework
 *   **Step 1: Centralized Inventory.** Use a "Single Source of Truth" to track all apps.
 *   **Step 2: Regular Audits.** Decommission any tool not used in the last 90 days.
@@ -67,6 +65,7 @@ By adopting these pillars, the 2026 enterprise can transform its software stack 
 *In 2026, the most competitive companies won't have the *most* tools; they will have the *best-integrated* ones.*
 
 ## References
+
 [^1]: [Zylo: The State of SaaS Management 2026](https://zylo.com/blog/saas-statistics/)
 [^2]: [Quantumrun: SaaS Industry Growth Statistics](https://www.quantumrun.com/consulting/saas-industry-growth-statistics/)
 [^3]: [Vertice: 2026 SaaS Inflation Index](https://www.vertice.one/l/saas-inflation-index-report)
