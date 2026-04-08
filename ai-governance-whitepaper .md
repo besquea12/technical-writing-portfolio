@@ -32,7 +32,7 @@ Unlike 2024's chatbots, 2026's **Agentic AI** can actually execute actions-like 
 ## 3. The Impact: What’s at Stake?
 *   **Financial Risk:** [Fines, lost revenue, or wasted budget].
 *   **Operational Risk:** [Loss of data, security breaches, or tool fatigue].
-*   **Regulatory Risk:** [Mention specific laws like the EU AI Act].
+*   **Regulatory Risk:** [Specific laws like the EU AI Act].
 
 ## 4. The Solution: The AI Trust Framework 
 To bridge the gap between innovation and security, organizations must move away from total bans and towards **Managed Autonomy**. We propose the "AI Trust Framework," a three-pillar system desgined to provide visibility without stifling productivity. 
