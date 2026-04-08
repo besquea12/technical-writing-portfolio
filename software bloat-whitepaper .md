@@ -1,5 +1,5 @@
 markdown
-## The Hidden Costs of Software Bloat
+# The Hidden Costs of Software Bloat
 How "SaaS Sprawl" is Eroding Enterprise ROI and Employee Focus in 2026.
 
 ## 1. Executive Summary
