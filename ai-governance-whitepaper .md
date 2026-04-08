@@ -5,7 +5,7 @@ markdown
 ---
 
 ## 1. Executive Summary
-*As we move throught 2026, the era of "AI experimentation" has ended, replacee by the era of **AI Accountability**. While enterprises have rushed to intergrate autonomous agents into their workflows, a dnagerous gap has emerged between deployment and oversight. Current data suggests that while **82% of organizations** now use "Agentic AI" to handle customer data, fewer than **15% have a centralized governance framework** to monitor these models. 
+As we move throught 2026, the era of "AI experimentation" has ended, replacee by the era of **AI Accountability**. While enterprises have rushed to intergrate autonomous agents into their workflows, a dnagerous gap has emerged between deployment and oversight. Current data suggests that while **82% of organizations** now use "Agentic AI" to handle customer data, fewer than **15% have a centralized governance framework** to monitor these models. 
 
 This lack of oversioght has birthed the rise of "Shadow AI", where unmanaged tools create massive vulnerabilities in data privacy and regulatory compliance (specifically regarding the **EU AI Act**). The financial stakes are no longer theoritical; non-compliance fines and data leakage from unvetted LLMs are projected to cost enterprises over **$12 billion** in 2026 alone. 
 
@@ -59,3 +59,14 @@ As AI shifts fron "chatting" to "acting," companies must enforce **Human-in-the-
 *   **Phase 2 (Days 31-90):** [Long-term strategy].
 
 ---
+
+## References
+
+^1: [Reco AI: AI Governance Overview & Best Practices] (https://www.reco.ai/blog/ai-governance-saas-overview-best-practices-reco)
+
+^2: [Yahoo Finance: Shadow AI Crisis Report] (https://finance.yahoo.com/news/report-shadow-ai-crisis-looms-140000308.html)
+
+^3: [JumpCloud: 11 Stats About Shadow AI in 2026] (https://jumpcloud.com/blog/11-stats-about-shadow-ai-in-2026)
+
+^4: [IBM/SecondTalent: Shadow AI Statistics & Breach Costs] (https://www.secondtalent.com/resources/shadow-ai-statistics/)
+
