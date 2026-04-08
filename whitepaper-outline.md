@@ -65,7 +65,6 @@ By adopting these pillars, the 2026 enterprise can transform its software stack 
 *In 2026, the most competitive companies won't have the *most* tools; they will have the *best-integrated* ones.*
 
 ## References
-
 [^1]: [Zylo: The State of SaaS Management 2026](https://zylo.com/blog/saas-statistics/)
 [^2]: [Quantumrun: SaaS Industry Growth Statistics](https://www.quantumrun.com/consulting/saas-industry-growth-statistics/)
 [^3]: [Vertice: 2026 SaaS Inflation Index](https://www.vertice.one/l/saas-inflation-index-report)
