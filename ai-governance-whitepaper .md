@@ -5,24 +5,24 @@ markdown
 ---
 
 ## 1. Executive Summary
-As we move throught 2026, the era of "AI experimentation" has ended, replacee by the era of **AI Accountability**. While enterprises have rushed to intergrate autonomous agents into their workflows, a dnagerous gap has emerged between deployment and oversight. Current data suggests that while **82% of organizations** now use "Agentic AI" to handle customer data, fewer than **15% have a centralized governance framework** to monitor these models. 
+As we move throught 2026, the era of "AI experimentation" has ended, replaced by the era of **AI Accountability**. While enterprises have rushed to intergrate autonomous agents into their workflows, a dangerous gap has emerged between deployment and oversight. Current data suggests that while **82% of organizations** now use "Agentic AI" to handle customer data, fewer than **15% have a centralized governance framework** to monitor these models. 
 
 This lack of oversioght has birthed the rise of "Shadow AI", where unmanaged tools create massive vulnerabilities in data privacy and regulatory compliance (specifically regarding the **EU AI Act**). The financial stakes are no longer theoritical; non-compliance fines and data leakage from unvetted LLMs are projected to cost enterprises over **$12 billion** in 2026 alone. 
 
-This whitepaper outlines a strategic pivot from reactive policy-making to **Proactive AI Governance**. We introduce a three-step framework centered on **Real-Time Model Monitoring, Automated Risk Classification**, and **Human-in-the-Loop (HITL) checkpoints**. By implementing these controls, organizations can harness the full power of autonomous AI while ensuring totoal compliance and protecting their most valuable assest: customer trust. 
+This whitepaper outlines a strategic pivot from reactive policy-making to **Proactive AI Governance**. We introduce a three-step framework centered on **Real-Time Model Monitoring, Automated Risk Classification**, and **Human-in-the-Loop (HITL) checkpoints**. By implementing these controls, organizations can harness the full power of autonomous AI while ensuring total compliance and protecting their most valuable assets: customer trust. 
 
 ## 2. The Problem: The Rise of Shadow AI
 In 2026 , the primary threat to enterprise data security is no longer external hackers, but  internal "productivty hacks". 
 As auntonomous agents and Large Language Models (LLMs) become more accesible, employees are increasingly bypassing official procurement channels to use unvetted AI tools-a phenomenon known as **Shadow AI**. 
 
 ### The Productivity-Risk Paradox
-Driven by the pressure to "do more with less," employees are feeding data (including proprietary code, custom PII, and unreleased financial reports) intro free or personal AI accounts. 
+Driven by the pressure to "do more with less," employees are feeding data (including proprietary code, custom PII, and unreleased financial reports) into free or personal AI accounts. 
 
 *   **The Intent:** Automating tedious tasks like meeting transcription, data cleaning, or email drafting. 
-*   **The Reality:** Once data is entered into an unmanaged model. it is often used for training future iterations, effectively leaking corporate secrrets into the public domain.
+*   **The Reality:** Once data is entered into an unmanaged model. It is often used for training future iterations, effectively leaking corporate secrets into the public domain.
 
 ### Key Statistic: The Oversight Gap
-According to the **2026 State of Shadow AI Reports**, over **65% of enterprise employees** admit to using AI tools that have not benn approved by their IT or Security departments. More alarming is the fact that **80% of these users** believe they are helping the company, unaware that their "efficiency" could lead to multi-million dollar fines under the latest compliance atatutes. 
+According to the **2026 State of Shadow AI Reports**, over **65% of enterprise employees** admit to using AI tools that have not benn approved by their IT or Security departments. More alarming is the fact that **80% of these users** believe they are helping the company, unaware that their "efficiency" could lead to multi-million dollar fines under the latest compliance statutes. 
 
 > "Shadow AI is the new Shadow IT,  but with higher stakes. You aren't just losing control of the software;  you're losing control of the intellectual property itself."
 
