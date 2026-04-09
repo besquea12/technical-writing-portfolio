@@ -1,6 +1,6 @@
 markdown
 # The Privacy-Performance Paradox: Scaling AI in HealthTech (2026)
-**Subtitle:** Balancing Clinical Innovation with HIPAA, GDPR, and the EU AI Act in a Decentralized Landscape.
+**Balancing Clinical Innovation with HIPAA, GDPR, and the EU AI Act in a Decentralized Landscape.**
 
 ---
 
