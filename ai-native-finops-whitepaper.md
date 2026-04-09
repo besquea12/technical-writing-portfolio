@@ -7,7 +7,7 @@ markdown
 2. [The Problem: The "AI Waste" Reckoning](#2-the-problem-the-ai-waste-reckoning)
 3. [The Impact: The Cost of Manual Oversight](#3-the-impact-the-cost-of-manual-oversight)
 4. [The Solution: The "Shift-Left" FinOps Framework](#4-the-solution-the-shift-left-finops-framework)
-5. [Case Study: Reclaiming $17M in Annual "Zombie" Spend](#case-study-reclaiming-17-m-in-annual-zombie-spend)
+5. [Case Study: Reclaiming $17M In Annual "Zombie" Spend](#case-study-reclaiming-17-m-in-annual-zombie-spend)
 6. [References](#references)
 
 ---
