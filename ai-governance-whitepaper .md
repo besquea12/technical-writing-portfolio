@@ -4,11 +4,10 @@ markdown
 ## Table of Contents
 1. [Executive Summary](#1-executive-summary)
 2. [The Problem: The Rise of Shadow AI](#2-the-problem-the-rise-of-shadow-ai)
-3. [The Impact: What's at Stake](#3-what's-at-stake)
-4. [The Solution: The AI Trust Framework](#4-the-ai-trust-framework)
-5. [The Implementation Roadmap:](#5-the-implementation-roadmap)
-6. [Conclusion](#6-conclusion)
-7. [References](#7-references)
+3. [The Impact: Whats At Stake](#3-the-impact-whats-at-stake)
+4. [The Solution: The AI Trust Framework](#4-the-solution-the-ai-trust-framework)
+5. [The Implementation Roadmap: Phases](#5-the-implementation-roadmap-phases)
+6. [References](#references)
 
 ---
 
@@ -62,13 +61,13 @@ As AI shifts fron "chatting" to "acting," companies must enforce **Human-in-the-
 
 > **Expert Insight:** "Governance isn't about saying No'; it's about saying Yes', but with an audit trail. The AI Trust Framework turns a chaotic risk into a managed competitive advantage".
 
-## 5. Implementation Roadmap
+## 5. Implementation Roadmap: Phases
 *   **Phase 1 (Days 1-30):** [Immediate actions].
 *   **Phase 2 (Days 31-90):** [Long-term strategy].
 
 ---
 
-## References
+## 6. References
 
 ^1: [Reco AI: AI Governance Overview & Best Practices] (https://www.reco.ai/blog/ai-governance-saas-overview-best-practices-reco)
 
