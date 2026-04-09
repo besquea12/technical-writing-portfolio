@@ -6,8 +6,8 @@ markdown
 2. [The Problem: The Rise of Shadow AI](#2-the-problem-the-rise-of-shadow-ai)
 3. [The Impact: Whats At Stake](#3-the-impact-whats-at-stake)
 4. [The Solution: The AI Trust Framework](#4-the-solution-the-ai-trust-framework)
-5. [The Implementation Roadmap: Phases](#5-the-implementation-roadmap-phases)
-6. [References](#references)
+5. [Implementation Roadmap: Phases](#5-the-implementation-roadmap-phases)
+6. [References](#6-the-references)
 
 ---
 
