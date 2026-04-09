@@ -5,9 +5,9 @@ markdown
 ## Table of Contents
 1. [Executive Summary](#1-executive-summary)
 2. [The Problem: The "AI Waste" Reckoning](#2-the-problem-the-ai-waste-reckoning)
-3. [The Impact: The High Cost of Stolen Trust](#3-the-impact-the-high-cost-of-stolen-trust)
-4. [The Solution: The Identity-First Framework](#4-the-solution-the-identity-first-framework)
-5. [Case Study: Neutralizing a $5M Deepfake Attempt](#case-study-neutralizing-a-5m-ceo-fraud-deepfake-attempt)
+3. [The Impact: The Cost of Manual Oversight](#3-the-impact-the-cost-of-manual-oversight)
+4. [The Solution: The "Shift-Left" FinOps Framework](#4-the-solution-the-shift-left-finops-framework)
+5. [Case Study: Reclaiming $17M in Annual "Zombie" Spend](#case-study-reclaiming-$17m-in-annual-zombie-spend)
 6. [References](#references)
 
 ---
