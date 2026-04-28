@@ -1,0 +1,11 @@
+extends: existence
+message: "Potential HIPAA/AI Violation: '%s'. Ensure no PHI is sent to non-BAA models."
+level: error
+scope: text
+tokens:
+  - "ChatGPT"        # Flagging generic AI use without safety checks
+  - "patient name"   # Flagging potential PHI data points
+  - "medical record"
+  - "SSN"
+  - "social security"
+  - "unencrypted"
