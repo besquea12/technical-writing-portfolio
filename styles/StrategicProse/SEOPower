@@ -1,8 +1,0 @@
-extends: substitution
-message: "SEO UPGRADE: Use '%s' instead of '%s' to match Google Search Console intent."
-level: suggestion
-ignorecase: true
-swap:
-  "cloud security": "HIPAA compliant AI infrastructure"
-  "data privacy": "Enterprise AI Governance"
-  "compliance": "SOC2 and HIPAA certified SaaS"
